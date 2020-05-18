@@ -24,7 +24,10 @@ Output:<br/>
 ![Sumbangan](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(116).png)
 
 * Contoh mengisi dan fitur tambahan jika memilih banyak jenis 
-![Input data](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(117).png)
+![Contoh Input data](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(117).png)
+
+* Selesai Input Data
+![Selesai Input data](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(118).png)
 
 * Fitur Display Rekap Sumbangan urut ID
 ![List Sumbangan](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(123).png)

@@ -34,3 +34,6 @@ Output:<br/>
 
 * Contoh fitur pencari data dalam table
 ![List Sumbangan search](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(125).png)
+
+### Kendala pengerjaan:
+* Terdapat error saat melakukan click page pada page yang sama, contohnya saat berada pada page sumbangan dan click pada page sumbangan lagi maka url akan bertambah jadi sumbangan/sumbangan/index yang semestinya hanya sumbangan/index

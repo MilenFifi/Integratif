@@ -1,21 +1,22 @@
 # Integratif
-**Nama  : Milenia Ulwan Zafira**
-**NRP   : 05311840000020**
-**Dept. : Teknologi Informasi**
+**Nama  : Milenia Ulwan Zafira**<br/>
+**NRP   : 05311840000020**<br/>
+**Dept. : Teknologi Informasi**<br/>
 
 ## Penjelasan 
 
-* Source Code : [Source code](https://github.com/MilenFifi/Integratif/tree/master/eas)
+* Source Code : [Source code](https://github.com/MilenFifi/Integratif/tree/master/eas)<br/>
 dapat di liat di localhost dengan mamasukan ke dalam folder intrgratif
 > Integrarif/eas
 
 dan buka localhost
 >http://localhost/integratif/eas/public/
 
-* SQL : [SQL](https://github.com/MilenFifi/Integratif/blob/master/easintegratif.sql)
+* SQL : [SQL](https://github.com/MilenFifi/Integratif/blob/master/easintegratif.sql)<br/>
 dapat lakukan import sql di phpmyadmin sebelum buka di localhost
 
-Output:\n
+Output:<br/>
+
 * Home Display
 ![Home](https://raw.githubusercontent.com/MilenFifi/Integratif/master/Screenshot%20(115).png)
 
